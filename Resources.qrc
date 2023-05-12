@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/main_title.png</file>
+        <file>images/bishop.png</file>
+        <file>images/bishop1.png</file>
+        <file>images/horse.png</file>
+        <file>images/horse1.png</file>
+        <file>images/king.png</file>
+        <file>images/king1.png</file>
+        <file>images/pawn.png</file>
+        <file>images/pawn1.png</file>
+        <file>images/queen.png</file>
+        <file>images/queen1.png</file>
+        <file>images/rook.png</file>
+        <file>images/rook1.png</file>
+        <file>images/left_bg.PNG</file>
+        <file>images/up_bg.PNG</file>
+        <file>images/right_bg.PNG</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sound/bgmusic_3.mp3</file>
+        <file>sound/bgmusic_2.mp3</file>
+        <file>sound/bgmusic_1.mp3</file>
+    </qresource>
+</RCC>
